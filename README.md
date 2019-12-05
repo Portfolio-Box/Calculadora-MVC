@@ -1,10 +1,10 @@
 # Calculadora-MVC
 
-### Description
+### Descripción
 
 Una simple calculadora usando el patron de arquitectura MVC.
 
-### Technologies
+### Technologias
 * JavaSE8
 * Swing
 
